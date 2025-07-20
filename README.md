@@ -190,7 +190,9 @@ The analysis identifies 5 distinct customer segments based on purchasing behavio
 ## Author
 
 **Course**: CS434 - Machine Learning/Data Science
+
 **Analysis Period**: 2010-2011 Online Retail Data
+
 **Implementation**: Python with scikit-learn
 
 ---
